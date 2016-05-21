@@ -1,0 +1,196 @@
+body {
+    background: #F0F0F0;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    word-wrap: break-word;
+}
+
+h1, h2, h3, h4, h5 {
+    color: #333;
+    font-family: 'Lato', sans-serif;
+    line-height: 1.2em;
+}
+
+p {
+  font-family: 'Lato', sans-serif;  
+}
+
+ul li {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.course-top-bar {
+    border-bottom: 0;
+    margin-bottom: 2.5em;
+    background: #fffffa;
+}
+
+.video-container {
+    margin-bottom: 2em;
+}
+
+.logo-wrap {
+    height: auto;
+}
+
+.logo-co {
+    width: 150px;
+}
+
+.content-wrap {
+    background: #fefefe;
+    margin-bottom: 2.5em;
+}
+
+.inner-padding {
+    margin: 0px auto;
+    padding: 7.5% 7.5% 2.5% 7.5%;
+}
+
+.headline-wrapper {
+    margin-bottom: 3em;
+}
+
+.main-headline {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    line-height: 1.2em;
+    font-size: 44px;
+    margin-top: 0;
+}
+
+.testimonial-box {
+    border: 1px solid #95a5a6;
+    background: #ecf0f1;
+    padding: 0 2em 2em 2em;
+    margin-top: 2.5em;
+    margin-bottom: 2.5em;
+}
+
+.testimonial-headline {
+    text-align: center;
+    color: #16a085;
+    margin-bottom: 1em;
+}
+
+.testimonial-name {
+    margin-top: 1em;
+    font-style: italic;
+}
+
+.testimonial-img {
+    max-width: 125px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.subheadline {
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 1em;
+    margin-top: 1.5em;
+}
+
+.green {
+    color: #16a085;
+}
+
+.course-module {
+    background: #f7f7f7;
+    padding: 2em;
+    border: 3px solid #d8e1e3;
+    margin: 2.5em 0 2.5em 0;
+}
+
+.more-testimonials {
+    border-left: 5px solid #7f8c8d;
+    padding-left: 10px;
+    margin-left: 30px;
+    margin-top: 2em;
+}
+
+.more-testimonials li {
+    list-style-type: none;
+    margin-bottom: 15px;
+    font-style: italic;
+}
+
+.guaranteed {
+    background-color: #ffffdb;
+    padding: 2em;
+    margin-bottom: 2em;
+}
+
+.author-note {
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.payment {
+    padding: 1em 2em 2em 2em;
+}
+
+.center-cta-wrap {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.top-cta {
+    border-radius: 0;
+    border: none;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding: 25px 60px;
+    background: #2980b9;
+    margin-bottom: 20px;
+    display: block;
+    white-space: normal;
+}
+
+.top-cta:hover {
+    background: #f39c12;
+}
+
+.payment-headline {
+    font-weight: 900;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.payment-subheader {
+    margin-top: .5em;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.footer {
+    margin-top: 3em;
+    text-align: center;
+    font-size: 14px;
+    color: #95a5a6;
+}
+
+.lp-listing {
+    list-style: none;
+}
+.lp-listing li {
+    position: relative;
+    padding-left: 20px;
+    padding-bottom: 5px;
+}
+.lp-listing li:after {
+    content: '\b7\a0';
+    position: absolute;
+    top:-20px;
+    left:0;
+    color: #0d0d0d;
+    font-size: 40px;
+}
+
+#lp-subheadline { color: #e74c3c; }
